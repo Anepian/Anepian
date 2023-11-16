@@ -2,7 +2,7 @@
   <h1>Hola soy Anepian, estudiante de Ingenieria de Software 👋</h1>
 </div>
 
-<h2 align="center">Está presentación esta en construcción, vuelve pronto :)</h2>
+<h2 align="center">Esta presentación está en construcción, vuelve pronto :)</h2>
 <!--
 **Anepian/Anepian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

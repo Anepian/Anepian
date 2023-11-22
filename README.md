@@ -1,5 +1,5 @@
 <div align="center"> 
-  <h1>Hola soy Anepian, estudiante de Ingenieria de Software 👋</h1>
+  <h1>Hola soy Alejandro Vizcaino Lupian, estudiante de Ingenieria de Software 👋</h1>
 </div>
 
 <h2 align="center">Esta presentación está en construcción, vuelve pronto :)</h2>

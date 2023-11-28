@@ -4,7 +4,7 @@
 
 <h2 align="center">About me:</h2>
 
-var school= <u href="https://portal.ucol.mx/telematica/">Facultad de Telematica</u>
+var school= <a href="https://portal.ucol.mx/telematica/">Facultad de Telematica</u>
 
 <h2 align="center">I'm working on this presentation, come back soon :)</h2>
 <!--

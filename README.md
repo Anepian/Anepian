@@ -5,7 +5,7 @@
 <h2 align="center">About me:</h2>
 
 <p>var age = 20;</p>
-<p>let school= <a href="https://portal.ucol.mx/telematica/">Facultad de Telematica</u>;</p>
+<p>let school= <a href="https://portal.ucol.mx/telematica/">Facultad de Telematica;</u></p>
 
 <h2 align="center">I'm working on this presentation, come back soon :)</h2>
 <!--

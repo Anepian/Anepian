@@ -1,7 +1,7 @@
 <div align="center"> 
   <h1>Hi, im Lupian. 👋</h1>
   <p>Aka Anepian</p>
-  <p>I´m a software engineering student who like to do some UI projects and some backend code</p>
+  <p>I´m a software engineering student who like to do some UI projects and some backend code.</p>
 </div>
 
 ## About me

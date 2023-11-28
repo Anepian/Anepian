@@ -1,5 +1,7 @@
 <div align="center"> 
-  <h1>Hello, I am Alejandro Vizcaino Lupian, aka Anepian and I am a software engineering student. 👋</h1>
+  <h1>Hi, im Lupian. 👋</h1>
+  <h2>Aka Anepian</h2>
+  <p>I´m a software engineering student who like to do some UI projects and some backend code</p>
 </div>
 
 ## About me

@@ -1,8 +1,8 @@
 <div align="center"> 
-  <h1>Hola soy Alejandro Vizcaino Lupian, estudiante de Ingenieria de Software 👋</h1>
+  <h1>Hello, I am Alejandro Vizcaino Lupian, aka Anepian and I am a software engineering student. 👋</h1>
 </div>
 
-<h2 align="center">Esta presentación está en construcción, vuelve pronto :)</h2>
+<h2 align="center">I'm working on this presentation, come back soon :)</h2>
 <!--
 **Anepian/Anepian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

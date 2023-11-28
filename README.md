@@ -2,10 +2,15 @@
   <h1>Hello, I am Alejandro Vizcaino Lupian, aka Anepian and I am a software engineering student. 👋</h1>
 </div>
 
-<h2 align="center">About me:</h2>
-
-<p>var age = 20;</p>
-<p>let school= <a href="https://portal.ucol.mx/telematica/">Facultad de Telematica;</u></p>
+## About me
+```javascript
+const AlexLupian = {
+  pronouns: "he" | "him",
+  nationality: 'Mexican',
+  birthday: 'June 3',
+  age: '20 years'
+}
+```
 
 <h2 align="center">I'm working on this presentation, come back soon :)</h2>
 <!--

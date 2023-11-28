@@ -2,6 +2,10 @@
   <h1>Hello, I am Alejandro Vizcaino Lupian, aka Anepian and I am a software engineering student. 👋</h1>
 </div>
 
+<h2 align="center">About me:</h2>
+
+var school= <u href="https://portal.ucol.mx/telematica/">Facultad de Telematica</u>
+
 <h2 align="center">I'm working on this presentation, come back soon :)</h2>
 <!--
 **Anepian/Anepian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

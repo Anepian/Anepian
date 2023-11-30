@@ -17,6 +17,7 @@ const AlexLupian = {
 ## Skills
 <a href="https://kotlinlang.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" height="40" width="40"></a>
 <a href="https://reactnative.dev/"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height="40" width="40"></a>
+<a href="https://dotnet.microsoft.com/es-es/languages/csharp"><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" height="40" width="40"></a>
 
 
 <h2 align="center">I'm working on this presentation, come back soon :)</h2>

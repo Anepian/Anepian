@@ -14,6 +14,9 @@ const AlexLupian = {
 }
 ```
 
+## Skills
+<a href="https://kotlinlang.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg"></a>
+
 <h2 align="center">I'm working on this presentation, come back soon :)</h2>
 <!--
 **Anepian/Anepian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

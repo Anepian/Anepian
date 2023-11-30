@@ -15,7 +15,7 @@ const AlexLupian = {
 ```
 
 ## Skills
-<a href="https://kotlinlang.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg"></a>
+<a href="https://kotlinlang.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" heigt=40></a>
 
 <h2 align="center">I'm working on this presentation, come back soon :)</h2>
 <!--

@@ -30,6 +30,8 @@ const AlexLupian = {
 <a href="https://www.arduino.cc/"><img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" height="40" width="40"></a>
 <a href="https://www.java.com/es/"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height="40" width="40"></a>
 <a href="https://nodejs.org/en"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" height="40" width="40"></a>
+<a href="https://cordova.apache.org/"><img src="https://th.bing.com/th/id/R.0d4b16ee9693fee2085df85279d91bdb?rik=UQRDIR6xgUUv7Q&pid=ImgRaw&r=0" height="40" width="40"></a>
+<a href="https://www.mysql.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" height="40" width="40"></a>
 
 ## Tools
 <a href="https://developer.android.com/studio?hl=es-419"><img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" height="40" width="40"></a>

@@ -41,8 +41,8 @@ const AlexLupian = {
 <a href="https://www.kali.org/"><img src="https://www.freelogovectors.net/wp-content/uploads/2021/12/kali-logo-freelogovectors.net_-400x400.png" height="40" width="40"></a>
 <a href="https://code.visualstudio.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" height="40" width="40"></a>
 <a href="https://dotnet.microsoft.com/en-us/apps/xamarin"><img src="https://github.com/devicons/devicon/blob/master/icons/xamarin/xamarin-original.svg" height="40" width="40"></a>
-<a href=""><img src="" height="40" width="40"></a>
-<a href=""><img src="" height="40" width="40"></a>
+<a href="https://replit.com/"><img src="https://th.bing.com/th/id/R.c3aee6f5bf4fbbd90c78097d25ed04d3?rik=hBtx9IKolm8flw&pid=ImgRaw&r=0" height="40" width="40"></a>
+<a href="https://www.postman.com/"><img src="https://th.bing.com/th/id/R.fbfb57a181ce251926d686d12e6cee5a?rik=QrR9%2ba7s0QI3uQ&pid=ImgRaw&r=0" height="40" width="40"></a>
 
 <h2 align="center">I'm working on this presentation, come back soon :)</h2>
 <!--

@@ -17,13 +17,20 @@ const AlexLupian = {
 ## Skills
 <a href="https://kotlinlang.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" height="40" width="40"></a>
 <a href="https://reactnative.dev/"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height="40" width="40"></a>
-<a href="https://dotnet.microsoft.com/es-es/languages/csharp"><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" height="40" width="40"></a>
 <a href="https://flutter.dev/"><img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" height="40" width="40"></a>
 <a href="https://lenguajehtml.com/html/"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="40" width="40"></a>
 <a href="https://www.w3schools.com/Css/"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height="40" width="40"></a>
 <a href="https://developer.mozilla.org/es/docs/Learn/JavaScript/First_steps/What_is_JavaScript"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="40" width="40"></a>
 <a href="https://www.r-project.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" height="40" width="40"></a>
 <a href="https://dotnet.microsoft.com/en-us/apps/maui"><img src="https://styles.redditmedia.com/t5_2odyx7/styles/communityIcon_19sk0x18irz41.png" height="40" width="40"></a>
+<a href="https://es.wikipedia.org/wiki/El_lenguaje_de_programaci%C3%B3n_C"><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" height="40" width="40"></a>
+<a href="https://www.cs.cmu.edu/afs/cs.cmu.edu/academic/class/15211/spring.96/www/cxxbasics_one.html"><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" height="40" width="40"></a>
+<a href="https://dotnet.microsoft.com/es-es/languages/csharp"><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" height="40" width="40"></a>
+<a href=""><img src="" height="40" width="40"></a>
+<a href=""><img src="" height="40" width="40"></a>
+<a href=""><img src="" height="40" width="40"></a>
+<a href=""><img src="" height="40" width="40"></a>
+<a href=""><img src="" height="40" width="40"></a>
 
 ## Tools
 <a href="https://developer.android.com/studio?hl=es-419"><img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" height="40" width="40"></a>

@@ -28,15 +28,17 @@ const AlexLupian = {
 <a href="https://dotnet.microsoft.com/es-es/languages/csharp"><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" height="40" width="40"></a>
 <a href=""><img src="" height="40" width="40"></a>
 <a href=""><img src="" height="40" width="40"></a>
-<a href=""><img src="" height="40" width="40"></a>
-<a href=""><img src="" height="40" width="40"></a>
-<a href=""><img src="" height="40" width="40"></a>
+
 
 ## Tools
 <a href="https://developer.android.com/studio?hl=es-419"><img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" height="40" width="40"></a>
 <a href="https://visualstudio.microsoft.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" height="40" width="40"></a>
 <a href="https://www.linux.org/pages/download/"><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" height="40" width="40"></a>
 <a href="https://expo.io"><img src="https://seeklogo.com/images/E/expo-go-app-logo-BBBE394CB8-seeklogo.com.png" height="40" width="40"></a>
+<a href="https://www.rstudio.com/categories/rstudio-ide/"><img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" height="40" width="40"></a>
+<a href="https://ubuntu.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" height="40" width="40"></a>
+<a href="https://www.kali.org/"><img src="https://www.freelogovectors.net/wp-content/uploads/2021/12/kali-logo-freelogovectors.net_-400x400.png" height="40" width="40"></a>
+<a href=""><img src="" height="40" width="40"></a>
 
 
 <h2 align="center">I'm working on this presentation, come back soon :)</h2>

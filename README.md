@@ -23,6 +23,7 @@ const AlexLupian = {
 <a href="https://www.w3schools.com/Css/"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height="40" width="40"></a>
 <a href="https://developer.mozilla.org/es/docs/Learn/JavaScript/First_steps/What_is_JavaScript"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="40" width="40"></a>
 <a href="https://www.r-project.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" height="40" width="40"></a>
+<a href="https://dotnet.microsoft.com/en-us/apps/maui"><img src="https://styles.redditmedia.com/t5_2odyx7/styles/communityIcon_19sk0x18irz41.png" height="40" width="40"></a>
 
 ## Tools
 <a href="https://developer.android.com/studio?hl=es-419"><img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" height="40" width="40"></a>

@@ -29,7 +29,7 @@ const AlexLupian = {
 <a href="https://developer.android.com/studio?hl=es-419"><img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" height="40" width="40"></a>
 <a href="https://visualstudio.microsoft.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" height="40" width="40"></a>
 <a href="https://www.linux.org/pages/download/"><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" height="40" width="40"></a>
-<a href="https://expo.io"><img src="https://alxmrtnz.com/assets/posts/3-11-19/expo@2x.png" height="40" width="40"></a>
+<a href="https://expo.io"><img src="[https://alxmrtnz.com/assets/posts/3-11-19/expo@2x.png](https://creazilla-store.fra1.digitaloceanspaces.com/icons/3243981/expo-icon-md.png)" height="40" width="40"></a>
 
 
 <h2 align="center">I'm working on this presentation, come back soon :)</h2>

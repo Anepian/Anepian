@@ -26,9 +26,10 @@ const AlexLupian = {
 <a href="https://es.wikipedia.org/wiki/El_lenguaje_de_programaci%C3%B3n_C"><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" height="40" width="40"></a>
 <a href="https://www.cs.cmu.edu/afs/cs.cmu.edu/academic/class/15211/spring.96/www/cxxbasics_one.html"><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" height="40" width="40"></a>
 <a href="https://dotnet.microsoft.com/es-es/languages/csharp"><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" height="40" width="40"></a>
-<a href=""><img src="" height="40" width="40"></a>
-<a href=""><img src="" height="40" width="40"></a>
-
+<a href="https://angular.io/"><img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" height="40" width="40"></a>
+<a href="https://www.arduino.cc/"><img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" height="40" width="40"></a>
+<a href="https://www.java.com/es/"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height="40" width="40"></a>
+<a href="https://nodejs.org/en"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" height="40" width="40"></a>
 
 ## Tools
 <a href="https://developer.android.com/studio?hl=es-419"><img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" height="40" width="40"></a>
@@ -38,8 +39,10 @@ const AlexLupian = {
 <a href="https://www.rstudio.com/categories/rstudio-ide/"><img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" height="40" width="40"></a>
 <a href="https://ubuntu.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" height="40" width="40"></a>
 <a href="https://www.kali.org/"><img src="https://www.freelogovectors.net/wp-content/uploads/2021/12/kali-logo-freelogovectors.net_-400x400.png" height="40" width="40"></a>
+<a href="https://code.visualstudio.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" height="40" width="40"></a>
+<a href="https://dotnet.microsoft.com/en-us/apps/xamarin"><img src="https://github.com/devicons/devicon/blob/master/icons/xamarin/xamarin-original.svg" height="40" width="40"></a>
 <a href=""><img src="" height="40" width="40"></a>
-
+<a href=""><img src="" height="40" width="40"></a>
 
 <h2 align="center">I'm working on this presentation, come back soon :)</h2>
 <!--

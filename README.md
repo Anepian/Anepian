@@ -10,8 +10,7 @@ const AlexLupian = {
   pronouns: "he" | "him",
   nationality: 'Mexican',
   birthday: 'June 3',
-  age: '20',
-  languages: "English" | "Spanish";
+  age: '20'
 }
 ```
 

@@ -49,8 +49,12 @@ const AlexLupian = {
 <a href="https://www.postman.com/"><img src="https://th.bing.com/th/id/R.fbfb57a181ce251926d686d12e6cee5a?rik=QrR9%2ba7s0QI3uQ&pid=ImgRaw&r=0" height="40" width="40"></a>
 
 ## My Stats
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anepian&theme=radical)
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anepian&show_icons=true&theme=radical)
+<p align="center">
+<a href="https://github.com/ArisGuimera">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Anepian&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Anepian&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 <h2 align="center">I'm working on this presentation, come back soon :)</h2>
 <!--

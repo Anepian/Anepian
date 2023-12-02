@@ -49,7 +49,6 @@ const AlexLupian = {
 <a href="https://www.postman.com/"><img src="https://th.bing.com/th/id/R.fbfb57a181ce251926d686d12e6cee5a?rik=QrR9%2ba7s0QI3uQ&pid=ImgRaw&r=0" height="40" width="40"></a>
 
 # My Stats
-### :fire: My Stats :
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anepian&theme=radical)
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anepian&show_icons=true&theme=radical)
 

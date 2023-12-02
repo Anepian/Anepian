@@ -55,8 +55,6 @@ const AlexLupian = {
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Anepian&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
-<h2 align="center">I'm working on this presentation, come back soon :)</h2>
 <!--
 **Anepian/Anepian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -49,6 +49,8 @@ const AlexLupian = {
 <a href="https://www.postman.com/"><img src="https://th.bing.com/th/id/R.fbfb57a181ce251926d686d12e6cee5a?rik=QrR9%2ba7s0QI3uQ&pid=ImgRaw&r=0" height="40" width="40"></a>
 <a href="https://www.virtualbox.org/"><img src="https://thenekodark.com/wp-content/uploads/2017/06/virtualbox-1024x1024.png" height="40" width="40"></a>
 <a href="https://www.vmware.com/"><img src="https://logodix.com/logo/652495.png" height="40" width="40"></a>
+<a href="https://www.atlassian.com/es/software/jira"><img src="https://www.pngfind.com/pngs/m/432-4329261_jira-software-logo-jira-logo-hd-png-download.png" height="40" width="40"></a>
+<a href="https://azure.microsoft.com/es-es/"><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/azure/azure-original.svg" height="40" width="40"></a>
 
 ## My Stats
 <p align="center">

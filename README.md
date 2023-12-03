@@ -47,6 +47,8 @@ const AlexLupian = {
 <a href="https://dotnet.microsoft.com/en-us/apps/xamarin"><img src="https://github.com/devicons/devicon/blob/master/icons/xamarin/xamarin-original.svg" height="40" width="40"></a>
 <a href="https://replit.com/"><img src="https://th.bing.com/th/id/R.c3aee6f5bf4fbbd90c78097d25ed04d3?rik=hBtx9IKolm8flw&pid=ImgRaw&r=0" height="40" width="40"></a>
 <a href="https://www.postman.com/"><img src="https://th.bing.com/th/id/R.fbfb57a181ce251926d686d12e6cee5a?rik=QrR9%2ba7s0QI3uQ&pid=ImgRaw&r=0" height="40" width="40"></a>
+<a href="https://www.virtualbox.org/"><img src="https://thenekodark.com/wp-content/uploads/2017/06/virtualbox-1024x1024.png" height="40" width="40"></a>
+<a href="https://www.vmware.com/"><img src="https://logodix.com/logo/652495.png" height="40" width="40"></a>
 
 ## My Stats
 <p align="center">

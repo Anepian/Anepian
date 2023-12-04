@@ -34,6 +34,7 @@ const AlexLupian = {
 <a href="https://www.mysql.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" height="40" width="40"></a>
 <a href="https://ionicframework.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original.svg" height="40" width="40"></a>
 <a href="https://www.php.net/"><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" height="40" width="40"></a>
+<a href="https://www.python.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="40" width="40"></a>
 
 ## Tools
 <a href="https://developer.android.com/studio?hl=es-419"><img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" height="40" width="40"></a>

@@ -59,7 +59,7 @@ const AlexLupian = {
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Anepian&layout=compact&langs_count=8&theme=algolia"/>
 </p>
 
-<a href="https://raw.githubusercontent.com/JoanRojasMejia/portfolio/122f34e51127da96b5a3af4936c89d15b0708d17/public/joan-contribution.svg"></a>
+![snake gif](https://raw.githubusercontent.com/JoanRojasMejia/portfolio/122f34e51127da96b5a3af4936c89d15b0708d17/public/joan-contribution.svg)
 <!--
 **Anepian/Anepian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
